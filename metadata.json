@@ -1,0 +1,7 @@
+
+{
+  "name": "DocuExtract AI",
+  "description": "An intelligent application to upload documents (text, images, or PDFs) and extract structured data using Gemini AI. Get summaries, JSON outputs, or key-value pairs effortlessly, with support for OCR from scanned documents and PDFs.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
